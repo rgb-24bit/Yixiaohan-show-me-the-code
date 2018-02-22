@@ -1,0 +1,7 @@
+# tool-package
+ipython==5.4.1
+flake8
+autoflake
+hy
+importmagic
+epc
