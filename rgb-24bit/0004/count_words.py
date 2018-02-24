@@ -18,4 +18,3 @@ def get_word_count(text):
 if __name__ == '__main__':
     text = get_text()
     print(get_word_count(text))
-
