@@ -1,0 +1,759 @@
+GitHub HelpVersion 
+Contact Support
+Return to GitHub
+Sometimes you just need a little help.
+ 
+How can we help?
+
+Bootcamp
+Set Up Git
+Create A Repo
+Fork A Repo
+Be Social
+Setup
+Signing up for a new GitHub account
+Verifying your email address
+About commit email addresses
+Setting your commit email address on GitHub
+Setting your commit email address in Git
+Blocking command line pushes that expose your personal email address
+Setting your username in Git
+Dealing with line endings
+Supported browsers
+About GitHub
+GitHub Glossary
+Git and GitHub learning resources
+Differences between user and organization accounts
+Access permissions on GitHub
+GitHub's billing plans
+How does upgrading or downgrading affect the billing process?
+Exploring projects on GitHub
+Finding open source projects on GitHub
+About topics
+Classifying your repository with topics
+About stars
+Managing your stars
+Following people
+About GitHub mirrors
+Using Git
+Git cheatsheet
+Ignoring files
+Associating text editors with Git
+What is a good Git workflow?
+Setting up and managing your GitHub user account
+Managing user account settings
+Changing your GitHub username
+Merging multiple user accounts
+Deleting your user account
+Permission levels for a user account repository
+What happens when I change my username?
+Best practices for leaving your company
+What does the 'Available for hire' checkbox do?
+Converting a user into an organization
+Integrating JIRA with your personal projects
+Managing email preferences
+Types of emails GitHub sends
+Adding an email address to your GitHub account
+Changing your primary email address
+Setting a backup email address
+Managing marketing emails from GitHub
+Remembering your GitHub username or email
+Managing your membership in organizations
+Accessing an organization
+Viewing people's roles in an organization
+Requesting organization approval for OAuth Apps
+Publicizing or hiding organization membership
+Removing yourself from an organization
+Upgrading your personal account's billing plan
+User account billing plans
+Upgrading your personal account
+Paying for user accounts
+Updating your personal account's payment method
+Switching payment methods for your personal account
+Removing a payment method associated with your user account
+Switching between monthly and yearly billing for your personal account
+Redeeming a coupon for your personal account
+Troubleshooting a declined credit card charge
+Unlocking a locked personal account
+Discounted personal accounts
+Viewing and managing your personal account's billing information
+Setting your personal account's billing email
+Finding your personal account's next billing date
+Downloading receipts for personal accounts
+Adding information to your personal account's receipts
+Viewing and managing pending changes to your personal account's billing plan
+Downgrading your personal account's billing plan
+Downgrading a user account to free
+Managing your personal account's apps
+Upgrading an app for your personal account
+Downgrading an app for your personal account
+Canceling an app for your personal account
+Managing large file storage and bandwidth for your personal account
+Purchasing additional storage and bandwidth for a personal account
+Downgrading storage and bandwidth for a personal account
+Authenticating to GitHub
+Keeping your account and data secure
+Creating a strong password
+Updating your GitHub access credentials
+Creating a personal access token for the command line
+Reviewing your SSH keys
+Reviewing your deploy keys
+Authorizing OAuth Apps
+Reviewing your authorized integrations
+Reviewing your security log
+Removing sensitive data from a repository
+About anonymized image URLs
+About GitHub's IP addresses
+Troubleshooting connectivity problems
+GitHub's SSH key fingerprints
+Sudo mode
+Preventing unauthorized access
+Securing your account with two-factor authentication (2FA)
+About Two-Factor Authentication
+Configuring two-factor authentication via a TOTP mobile app
+Configuring two-factor authentication via text message
+Configuring two-factor authentication via FIDO U2F
+Downloading your two-factor authentication recovery codes
+Setting a fallback authentication number
+Providing your 2FA authentication code
+Authenticating to GitHub using FIDO U2F via NFC
+Changing two-factor authentication delivery methods for your mobile device
+Recovering your account if you lost your 2FA credentials
+Countries where SMS authentication is supported
+Disabling two-factor authentication for your personal account
+Adding a fallback authentication method with Recover Accounts Elsewhere
+About Recover Accounts Elsewhere
+Generating and storing an account recovery token
+Authenticating with an account recovery token
+Authenticating to a GitHub organization with SAML single sign-on
+About authentication with SAML single sign-on
+Authorizing an SSH key for use with a SAML single sign-on organization
+Authorizing a personal access token for use with a SAML single sign-on organization
+Viewing and managing your active SAML sessions
+Connecting to GitHub with SSH
+About SSH
+Checking for existing SSH keys
+Generating a new SSH key and adding it to the ssh-agent
+Adding a new SSH key to your GitHub account
+Testing your SSH connection
+Working with SSH key passphrases
+Troubleshooting SSH
+Using SSH over the HTTPS port
+Recovering your SSH key passphrase
+Error: Permission denied (publickey)
+Error: Bad file number
+Error: Key already in use
+Error: Permission to user/repo denied to other-user
+Error: Permission to user/repo denied to user/other-repo
+Error: Agent admitted failure to sign
+Error: ssh-add: illegal option -- K
+Error: SSL certificate problem, verify that the CA cert is OK
+Error: We're doing an SSH key audit
+Signing commits with GPG
+About GPG
+Checking for existing GPG keys
+Generating a new GPG key
+Adding a new GPG key to your GitHub account
+Telling Git about your GPG key
+Associating an email with your GPG key
+Signing commits using GPG
+Signing tags using GPG
+Troubleshooting GPG
+Checking your GPG commit and tag signature verification status
+Updating an expired GPG key
+Using a verified email address in your GPG key
+Setting up and managing your GitHub profile
+Customizing your profile
+About your profile
+Setting your profile picture
+Adding a bio to your profile
+Pinning repositories to your profile
+Managing contribution graphs on your profile
+Viewing contributions on your profile
+Publicizing or hiding your private contributions on your profile
+Why are my contributions not showing up on my profile?
+Writing on GitHub
+Getting started with writing and formatting on GitHub
+About writing and formatting on GitHub
+Basic writing and formatting syntax
+Working with advanced formatting
+Organizing information with tables
+Creating and highlighting code blocks
+Autolinked references and URLs
+Working with saved replies
+About saved replies
+Creating a saved reply
+Changing a saved reply
+Deleting a saved reply
+Using saved replies
+Receiving notifications about activity on GitHub
+Getting started with notifications
+About notifications
+About web notifications
+About email notifications
+Accessing your notifications
+About your organization’s news feed
+Configuring how you receive notifications
+Choosing the delivery method for your notifications
+Choosing the types of notifications you receive
+Managing your notifications
+Marking notifications as read
+Subscribing to and unsubscribing from notifications
+Watching and unwatching repositories
+Watching and unwatching team discussions
+Listing the repositories you're watching
+Setting up and managing organizations and teams
+Collaborating with groups in organizations
+About organizations
+Creating a new organization from scratch
+Accessing your organization's settings
+Managing membership in your organization
+Inviting users to join your organization
+Canceling or editing an invitation to join your organization
+Removing a member from your organization
+Reinstating a former member of your organization
+Can I create accounts for people in my organization?
+Managing people's access to your organization with roles
+Permission levels for an organization
+Changing a person's role to owner
+Giving "team maintainer" permissions to an organization member
+Adding a billing manager to your organization
+Removing a billing manager from your organization
+Organizing members into teams
+About teams
+Creating a team
+Setting your team's profile picture
+Adding organization members to a team
+Renaming a team
+Changing team visibility
+Moving a team in your organization’s hierarchy
+Requesting to add a child team
+Removing organization members from a team
+Deleting a team
+Managing access to your organization's repositories
+Repository permission levels for an organization
+Managing an individual's access to an organization repository
+Managing team access to an organization repository
+Adding outside collaborators to repositories in your organization
+Removing an outside collaborator from an organization repository
+Converting an organization member to an outside collaborator
+Converting an outside collaborator to an organization member
+Reinstating a former outside collaborator's access to your organization
+Managing organization settings
+Renaming an organization
+Transferring organization ownership
+Allowing people to fork private repositories in your organization
+Deleting an organization account
+Converting an organization into a user
+Integrating JIRA with your organization's projects
+Migrating your organization to improved organization permissions
+Converting your previous Owners team to the improved organization permissions
+Converting your previous admin team to the improved organization permissions
+Migrating your previous admin teams to the improved organization permissions
+Restricting access to your organization's data
+About OAuth App access restrictions
+Enabling OAuth App access restrictions for your organization
+Disabling OAuth App access restrictions for your organization
+Approving OAuth Apps for your organization
+Denying access to a previously approved OAuth App for your organization
+Keeping your organization secure
+Viewing whether users in your organization have 2FA enabled
+Preparing to require two-factor authentication in your organization
+Requiring two-factor authentication in your organization
+Reviewing the audit log for your organization
+Reviewing your organization's installed integrations
+Managing member identity and access in your organization with SAML single sign-on
+About identity and access management with SAML single sign-on
+About SCIM
+Connecting your identity provider to your organization
+Enabling and testing SAML single sign-on for your organization
+Preparing to enforce SAML single sign-on in your organization
+Enforcing SAML single sign-on for your organization
+Downloading your organization's SAML single sign-on recovery codes
+Accessing your organization if your identity provider is unavailable
+Granting access to your organization with SAML single sign-on
+Managing bots and service accounts with SAML single sign-on
+Viewing and revoking organization members' authorized access tokens
+About two-factor authentication and SAML single sign-on
+Encouraging positive contributions in your organization
+Blocking a user from your organization
+Viewing users who are blocked from your organization
+Unblocking a user from your organization
+Upgrading your organization's billing plan
+Organization billing plans
+About per-user pricing
+Upgrading your organization account
+Switching from per-repository to per-user pricing
+Managing your organization's paid seats
+Adding seats to your organization
+Removing paid seats from your organization
+Paying for organization accounts
+Updating your organization's payment method
+Switching payment methods for your organization
+Removing a payment method associated with your organization
+Switching between monthly and yearly billing for your organization
+Redeeming a coupon for organizations
+Unlocking a locked organization account
+Discounted organization accounts
+Viewing and managing your organization's billing information
+Setting your organization's billing email
+Finding your organization's next billing date
+Downloading receipts for organizations
+Adding information to your organization's receipts
+Viewing and managing pending changes to your organization's billing plan
+Downgrading your organization's billing plan
+Downgrading your organization to free
+Downgrading your organization from the Business plan to the Team plan
+Managing your organization's apps
+Upgrading an app for your organization
+Downgrading an app for your organization
+Canceling an app for your organization
+Managing large file storage and bandwidth for your organization
+Purchasing additional storage and bandwidth for an organization
+Downgrading storage and bandwidth for an organization
+Setting up and paying for organizations for procurement companies
+About organizations for procurement companies
+Creating and paying for an organization on behalf of a client
+Upgrading or downgrading your client's paid organization
+Renewing your client's paid organization
+Creating, cloning, and archiving repositories
+Creating a repository on GitHub
+About repositories
+Creating a new repository
+About READMEs
+About CODEOWNERS
+About repository languages
+Licensing a repository
+Creating an issues-only repository
+Limits for viewing content and diffs in a repository
+Duplicating a repository
+Cloning a repository from GitHub
+Cloning a repository
+HTTPS cloning errors
+Error: Repository not found
+Error: Remote HEAD refers to nonexistent ref, unable to checkout
+Archiving a GitHub repository
+About archiving repositories
+Archiving repositories
+About archiving content and data on GitHub
+Referencing and citing content
+Backing up a repository
+Managing files in a repository
+Managing files on GitHub
+Creating new files
+Adding a file to a repository
+Renaming a file
+Moving a file to a new location
+Editing files in your repository
+Editing files in another user's repository
+Tracing changes in a file
+Deleting files
+Getting permanent links to files
+Managing files using the command line
+Adding a file to a repository using the command line
+Renaming a file using the command line
+Moving a file to a new location using the command line
+Working with non-code files
+Rendering and diffing images
+Mapping geoJSON files on GitHub
+Working with Jupyter Notebook files on GitHub
+3D File Viewer
+Rendering CSV and TSV data
+Rendering PDF documents
+Rendering differences in prose documents
+Managing Large Files
+Working with large files
+Conditions for large files
+Removing files from a repository's history
+Distributing large binaries
+What is my disk quota?
+Versioning large files
+About Git Large File Storage
+Installing Git Large File Storage
+Configuring Git Large File Storage
+Collaboration with Git Large File Storage
+Moving a file in your repository to Git Large File Storage
+Removing files from Git Large File Storage
+Managing storage and bandwidth usage
+About storage and bandwidth usage
+Viewing storage and bandwidth usage for a personal account
+Viewing storage and bandwidth usage for an organization
+Commits
+Creating a commit with multiple authors
+Changing a commit message
+Commit exists on GitHub but not in my local clone
+Commit branch and tag labels
+Why are my commits linked to the wrong user?
+Why are my commits in the wrong order?
+Comparing commits across time
+Differences between commit views
+Searching for information on GitHub
+Getting started with searching on GitHub
+About searching on GitHub
+Understanding the search syntax
+Troubleshooting search queries
+Sorting search results
+Searching on GitHub
+Finding files on GitHub
+Searching repositories
+Searching topics
+Searching code
+Searching commits
+Searching issues and pull requests
+Searching users
+Searching wikis
+Searching in forks
+Keyboard Shortcuts
+Using keyboard shortcuts
+Collaborating with issues and pull requests
+About pull requests
+GitHub flow
+About collaborative development models
+About conversations on GitHub
+Working with forks
+About forks
+Configuring a remote for a fork
+Syncing a fork
+Merging an upstream repository into your fork
+Allowing changes to a pull request branch created from a fork
+What happens to forks when a repository is deleted or changes visibility?
+Collaborating on repositories with code quality features enabled
+About statuses
+Working with protected branches
+Proposing changes to your work with pull requests
+About branches
+Creating and deleting branches within your repository
+About comparing branches in pull requests
+Creating a pull request
+Creating a pull request from a fork
+Requesting a pull request review
+Changing the base branch of a pull request
+Committing changes to a pull request branch created from a fork
+Addressing merge conflicts
+About merge conflicts
+Resolving a merge conflict on GitHub
+Resolving a merge conflict using the command line
+Reviewing changes in pull requests
+About pull request reviews
+Reviewing proposed changes in a pull request
+Finding changed methods and functions in a pull request
+Commenting on a pull request
+Viewing a pull request review
+Approving a pull request with required reviews
+Dismissing a pull request review
+Checking out pull requests locally
+Incorporating changes from a pull request
+About pull request merges
+Merging a pull request
+Closing a pull request
+Reverting a pull request
+Building a strong community
+Helping people contribute to your project
+About community profiles for public repositories
+Accessing a project's community profile
+Setting guidelines for repository contributors
+Adding a code of conduct to your project
+Adding support resources to your project
+Adding a license to a repository
+Creating an issue template for your repository
+Creating a pull request template for your repository
+Helping new contributors find your project with labels
+Collaborating with your team
+About team discussions
+Creating a team discussion
+Editing or deleting a team discussion
+Pinning a team discussion
+Moderating comments and conversations
+Editing a comment
+Deleting a comment
+Locking conversations
+Encouraging positive contributions to your project
+Limiting interactions with your repository
+Blocking a user from your personal account
+Viewing users you've blocked from your personal account
+Unblocking a user from your personal account
+Reporting abuse or spam
+Managing Repository Collaborators
+Inviting collaborators to a personal repository
+Removing a collaborator from a personal repository
+Removing yourself from a collaborator's repository
+Managing Remotes
+About remote repositories
+Adding a remote
+Changing a remote's URL
+Renaming a remote
+Removing a remote
+Which remote URL should I use?
+Why is Git always asking for my password?
+Dealing with non-fast-forward errors
+Fetching a remote
+Pushing to a remote
+Updating credentials from the OSX Keychain
+Caching your GitHub password in Git
+Releases
+About Releases
+Creating Releases
+Working with Tags
+Editing and deleting releases
+Getting the download count for your releases
+Linking to releases
+Visualizing repository data with graphs
+Accessing basic repository data
+About repository graphs
+Viewing a summary of repository activity
+Viewing contribution activity in a repository
+Viewing traffic to a repository
+Analyzing changes to a repository's content
+Visualizing commits in a repository
+Visualizing additions and deletions to content in a repository
+Understanding connections between repositories
+Viewing a repository's network
+Listing the forks of a repository
+Listing the projects that depend on a repository
+Listing the packages that a repository depends on
+Importing your projects to GitHub
+Importing source code to GitHub
+About GitHub Importer
+Importing a repository with GitHub Importer
+Updating commit author attribution with GitHub Importer
+Importing a Git repository using the command line
+Adding an existing project to GitHub using the command line
+Source code migration tools
+Working with Subversion on GitHub
+What are the differences between Subversion and Git?
+Support for Subversion clients
+Subversion properties supported by GitHub
+Advanced Git
+About Git rebase
+Using Git rebase on the command line
+Resolving merge conflicts after a Git rebase
+Changing author info
+Splitting a subfolder out into a new repository
+About Git subtree merges
+Managing your work on GitHub
+Managing your work with issues
+About issues
+Creating an issue
+Opening an issue from code
+Creating a permanent link to a code snippet
+About task lists
+About automation for issues and pull requests with query parameters
+File attachments on issues and pull requests
+Assigning issues and pull requests to other GitHub users
+Viewing all of your issues and pull requests
+Disabling issues
+Closing issues using keywords
+About duplicate issues and pull requests
+Labeling issues and pull requests
+About labels
+Creating a label
+Applying labels to issues and pull requests
+Editing a label
+Deleting a label
+Tracking the progress of your work with project boards
+About project boards
+About automation for project boards
+Creating a project board
+Adding issues and pull requests to a project board
+Adding notes to a project board
+Configuring automation for project boards
+Tracking progress on your project board
+Filtering cards on a project board
+Editing a project board
+Closing a project board
+Deleting a project board
+Disabling project boards in a repository
+Disabling project boards in your organization
+Tracking the progress of your work with milestones
+About milestones
+Creating and editing milestones for issues and pull requests
+Associating milestones with issues and pull requests
+Filtering issues and pull requests by milestone
+Viewing your milestone's progress
+Finding information in a repository
+Filtering issues and pull requests
+Filtering issues and pull requests by assignees
+Filtering issues and pull requests by labels
+Filtering pull requests by review status
+Sorting issues and pull requests
+Using search to filter issues and pull requests
+Sharing filters
+Administering a repository
+Managing repository settings
+About repository transfers
+Transferring a repository owned by your personal account
+Transferring a repository owned by your organization
+Allowing people to fork a private repository owned by your organization
+Renaming a repository
+Making a public repository private
+Making a private repository public
+Deleting a repository
+Customizing how changed files appear on GitHub
+Managing branches in your repository
+Setting the default branch
+Viewing branches in your repository
+Deleting and restoring branches in a pull request
+Configuring pull request merges
+About merge methods on GitHub
+Configuring commit squashing for pull requests
+Configuring commit rebasing for pull requests
+Defining the mergeability of pull requests
+About protected branches
+Configuring protected branches
+About required status checks
+Types of required status checks
+Enabling required status checks
+About branch restrictions
+Enabling branch restrictions
+About required reviews for pull requests
+Enabling required reviews for pull requests
+About required commit signing
+Enabling required commit signing
+Updating your project's dependencies
+About security alerts for vulnerable dependencies
+Viewing and updating vulnerable dependencies in your repository
+Managing alerts for vulnerable dependencies in your organization's repositories
+Gists
+About gists
+Creating gists
+Forking and cloning gists
+Deleting an anonymous gist
+Wiki
+About GitHub Wikis
+Adding wiki pages via the online interface
+Editing wiki pages via the online interface
+Creating a footer
+Creating a sidebar
+Adding and editing wiki pages locally
+Viewing a wiki's history of changes
+Adding images to wikis
+Adding links to wikis
+Supported MediaWiki formats
+Changing access permissions for wikis
+Disabling wikis
+Automation
+Getting started with the API
+Git automation with OAuth tokens
+About Webhooks
+Customizing your GitHub workflow
+Exploring integrations
+About integrations
+About GitHub Marketplace
+Purchasing and installing apps in GitHub Marketplace
+About billing for GitHub Marketplace
+Installing an app in your personal account
+Installing an app in your organization
+GitHub Pages Basics
+What is GitHub Pages?
+Configuring a publishing source for GitHub Pages
+User, Organization, and Project Pages
+Creating Project Pages using the command line
+Securing your GitHub Pages site with HTTPS
+Unpublishing a Project Pages site
+Unpublishing a User Pages site
+Further reading on GitHub Pages
+Customizing GitHub Pages
+Using Jekyll as a static site generator with GitHub Pages
+About GitHub Pages and Jekyll
+About Jekyll themes on GitHub
+Adding a Jekyll theme to your GitHub Pages site
+Adding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser
+Customizing CSS and HTML in your Jekyll theme
+Setting up your GitHub Pages site locally with Jekyll
+Configuring Jekyll
+Troubleshooting GitHub Pages builds
+Viewing Jekyll build error messages
+Generic Jekyll build failures
+Page build failed: Missing docs folder
+Page build failed: Invalid submodule
+Page build failed: Missing submodule
+Page build failed: Markdown errors
+Page build failed: Config file error
+Page build failed: Unknown tag error
+Page build failed: Tag not properly terminated
+Page build failed: Tag not properly closed
+Page build failed: File does not exist in includes directory
+Page build failed: File is a symlink
+Page build failed: Symlink does not exist within your site's repository
+Page build failed: File is not properly UTF-8 encoded
+Page build failed: Invalid post date
+Page build failed: Invalid Sass or SCSS
+Page build failed: Invalid highlighter language
+Updating your Markdown processor to kramdown
+Page build failed: Relative permalinks configured
+Page build failed: Syntax error in 'for' loop
+Files that start with an underscore are missing
+Page build failed: Invalid YAML in data file
+Page build failed: Date is not a valid datetime
+Adding Jekyll plugins to a GitHub Pages site
+Configuring Jekyll plugins
+Sitemaps for GitHub Pages
+Search engine optimization for GitHub Pages
+Repository metadata on GitHub Pages
+Atom (RSS) feeds for GitHub Pages
+Redirects on GitHub Pages
+Emoji on GitHub Pages
+@Mentions on GitHub Pages
+Using a custom domain with GitHub Pages
+Quick start: Setting up a custom domain
+About supported custom domains
+Custom domain redirects for GitHub Pages sites
+Adding or removing a custom domain for your GitHub Pages site
+Setting up an apex domain
+Setting up a www subdomain
+Setting up an apex domain and www subdomain
+Setting up a custom subdomain
+Troubleshooting custom domains
+Additional customizations for GitHub Pages
+Creating a custom 404 page for your GitHub Pages site
+Using syntax highlighting on GitHub Pages
+Using a static site generator other than Jekyll
+MIME types on GitHub Pages
+Should I rename <username.github.com> repositories to <username.github.io>?
+Using submodules with Pages
+Teaching and learning with GitHub Education
+Using GitHub for your schoolwork
+About GitHub Education for students
+Applying for a student developer pack
+Applying for a discount for your FIRST Robotics team
+Why was my application for a student developer pack denied?
+Using GitHub in your classroom and research
+About GitHub Education for educators and researchers
+Applying for a classroom discount
+Applying for a discount for your school club
+Applying for an academic research discount
+Why was my application for an educator or researcher discount denied?
+Jobs
+How to write a great job post
+Working with GitHub Support
+About GitHub Support
+Business plan support
+GitHub Marketplace support
+Understanding how GitHub uses and protects your data
+About GitHub's use of your data
+Opting into or out of data use for your private repository
+Site Policy
+GitHub Logo Policy
+Name Squatting Policy
+DMCA Takedown Policy
+Guide to Submitting a DMCA Takedown Notice
+Guide to Submitting a DMCA Counter Notice
+GitHub Trademark Policy
+GitHub Sensitive Data Removal Policy
+GitHub Privacy Statement
+GitHub Security
+Responsible Disclosure of Security Vulnerabilities
+GitHub Terms of Service
+GitHub Corporate Terms of Service
+GitHub Business Plan Addendum
+Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users
+Guidelines for Legal Requests of User Data
+Global Privacy Practices
+GitHub Community Guidelines
+GitHub Registered Developer Agreement
+GitHub Marketplace Terms of Service
+GitHub Marketplace Developer Agreement
+GitHub Pre-Release Program
+GitHub Open Source Applications Terms and Conditions
+GitHub and Export Controls
+The GitHub Logo © 2018 GitHub Inc. All rights reserved. Terms of ServicePrivacySecuritySupport
