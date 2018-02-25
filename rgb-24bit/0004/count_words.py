@@ -11,7 +11,7 @@ def get_text(file_name='words.txt'):
 
 
 def get_word_count(text):
-    pattern = r'\b(\w+?)\b'
+    pattern = r'\b\w+?\b'
     return len(re.findall(pattern, text))
 
 
