@@ -8,8 +8,7 @@ def get_img(img_name):
 
 
 def get_font(img, font_name):
-    w, h = img.size
-    return ImageFont.truetype(font_name, h / 5)
+    return ImageFont.truetype(font_name, img.height / 5)
 
 
 def draw_num(img, font, num):
