@@ -3,6 +3,7 @@
 from __future__ import print_function
 
 import os
+import io
 
 
 def get_file_list(dir_name):
@@ -16,7 +17,7 @@ def get_code_amount(file_name):
     key = ['code', 'blank', 'comment']
     code_amount = dict.fromkeys(key, 0)
 
-    with open(file_name, 'r') as fp:
+    with io.open(file_name, 'r', encoding='utf-8') as fp:
         for line in fp:
             if line.strip():
                 if line[0] == '#':
