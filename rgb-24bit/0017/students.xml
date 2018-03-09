@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-<students>
-<!--
+	<!--
 	学生信息表
 	"id" : [名字, 数学, 语文, 英文]
 -->
+	<students>
 {
-    &quot;1&quot;: [
-        &quot;\u5f20\u4e09&quot;, 
+    "1": [
+        "张三", 
         150.0, 
         120.0, 
         100.0
     ], 
-    &quot;2&quot;: [
-        &quot;\u674e\u56db&quot;, 
+    "2": [
+        "李四", 
         90.0, 
         99.0, 
         95.0
     ], 
-    &quot;3&quot;: [
-        &quot;\u738b\u4e94&quot;, 
+    "3": [
+        "王五", 
         60.0, 
         66.0, 
         68.0
