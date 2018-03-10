@@ -1,2 +1,3 @@
 # 0017 rely package
 xlrd
+lxml
